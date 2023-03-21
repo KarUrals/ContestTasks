@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="151d2305-3cf4-4df8-901a-54415e208bd6" name="Changes" comment="add first 3 tasks to GitHub">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kar/urals/tinkoff/start2023/summer/task4/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kar/urals/tinkoff/start2023/summer/task5/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kar/urals/tinkoff/start2023/summer/task6/Task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kar/urals/tinkoff/start2023/summer/task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kar/urals/tinkoff/start2023/summer/task1/Task1.java" afterDir="false" />
+    <list default="true" id="151d2305-3cf4-4df8-901a-54415e208bd6" name="Changes" comment="add last 3 tasks to GitHub">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,10 +54,19 @@
       <option name="presentableId" value="Default" />
       <updated>1679386643316</updated>
     </task>
+    <task id="LOCAL-00001" summary="add last 3 tasks to GitHub">
+      <created>1679388371240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679388371240</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add first 3 tasks to GitHub" />
-    <option name="LAST_COMMIT_MESSAGE" value="add first 3 tasks to GitHub" />
+    <MESSAGE value="add last 3 tasks to GitHub" />
+    <option name="LAST_COMMIT_MESSAGE" value="add last 3 tasks to GitHub" />
   </component>
 </project>
